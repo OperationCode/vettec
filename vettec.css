@@ -26,6 +26,11 @@ h2 {
 p {
   font-size: 20px;
 }
+
+.logo {
+  margin-left: 6%;
+  padding: 10px;
+}
 /*.logo {
   margin: 0 auto;
   width: 20px;
