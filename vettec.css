@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.hero_image {
+background-image: url(images/hero_image.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 700px;
+border-bottom: solid 8px #47566b;
+}
+
+.page_info {
+  font-family:'helvetica';
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 15%;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+}
+/*.logo {
+  margin: 0 auto;
+  width: 20px;
+  height: 20px;
+}*/
