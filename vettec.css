@@ -20,11 +20,17 @@ border-bottom: solid 8px #47566b;
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 40px;
+  font-weight: normal;
 }
 
 p {
   font-size: 20px;
+}
+
+.logo {
+  margin-left: 6%;
+  padding: 10px;
 }
 /*.logo {
   margin: 0 auto;
