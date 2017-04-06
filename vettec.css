@@ -55,3 +55,21 @@ p {
   padding-top: 30px;
   text-align: center;
 }
+
+.supporters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.supporters img{
+    width: 5em;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
