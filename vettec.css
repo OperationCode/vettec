@@ -29,6 +29,12 @@ body {
   color: rgb(82, 82, 82);
 }
 
+@media only screen and (max-width: 600px) {
+  .page_info {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
 h1 {
   font-weight: 500;
   font-size: 40px;
