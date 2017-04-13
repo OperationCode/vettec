@@ -80,17 +80,6 @@ p {
 }
 
 /* FOOTER */
-html {
-    height: 100%;
-    width: 100%;
-}
-
-body {
-    min-height: 100%;
-    display: block;
-    flex-direction: column;
-}
-
 #flex-content-container {
     flex: 1;
 }
@@ -99,16 +88,16 @@ body {
     position: relative;
     width: 100%;
     min-height: 100%;
-    background-color: rgba(26, 22, 23, .8);
-    color: white;
+    color: black;
     font-family: "Helvetica Neue", Helvetica;
-    padding: 10px 0px;
+    padding: 5px 0px;
     margin-top: 30px;
     font-weight: 100;
     text-align: center;
 }
 
-#footer a {
-    color: white;
-    font-weight: 100;
+.underline {
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
 }
