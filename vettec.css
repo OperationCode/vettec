@@ -57,6 +57,11 @@ p {
   text-align: center;
 }
 
+ .bunker_labs_logo {
+   margin-top: 10%;
+   width: 200px;
+ }
+
 .supporter-logos {
   display: flex;
   flex-wrap: wrap;
